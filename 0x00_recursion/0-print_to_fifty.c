@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "recursion.h"
 
 /**
  * print_to_fifty - prints the first fifty natural numbers
