@@ -2,9 +2,9 @@ These are my solutions to the recursion problems in w3 resource.com
 Original solutions can be found on the website: https://www.w3resource.com/c-programming-exercises/recursion/index.php
 This directory contains the following files:
 
-* HEADER FILES
+* **HEADER FILES**
 
-	* recursion.h
+	* **recursion.h**
 		- This file contains all the declarations for the functions coded in the source files.
 
 * **SOURCE CODE FILES**
