@@ -18,5 +18,5 @@ int print_largest(int array[], int start, int n)
 		largest = array[start + 1];
 	else
 		largest = array[start];
-	return (array, start + 1, n);
+	return(print_largest(array, start + 1, n);
 }
