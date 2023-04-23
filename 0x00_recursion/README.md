@@ -52,16 +52,16 @@ This directory contains the following files:
 		- This file contains the source code for the print array function which prints elements of the array passed
 		as an argument.
 
-		**Parameters**
+		**Parameters:**
 		The print_array function takes two paramenters: **array** which is the array whose elements are to be printed
 		on the screen and **n** which holds the number of elements in **array**— **n****-****1** should be passed as
 		argument.
 		
-		**Return value**
+		**Return value:**
 		**print_array** has a return type of void, meaning it does not return anything but print elements to stdout.
 
-		**Debugging**
+		**Debugging:**
 		I took notice that w3 resource's solution to this problem involved a function with three parameters—these would be
-		**array**, **start**,and **end** if we modified our code— and it is a good way to get past passing n less 1 as a 
+		**array**, **start**,and **end** if we modified our code— and it is a good way to get past passing **n less 1** as a 
 		parameter..
 		
